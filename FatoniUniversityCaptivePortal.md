@@ -205,7 +205,3 @@ sudo journalctl -u check-net.service -f
 /usr/local/bin/check_internet.sh
 
 ```
-
-
-
-```
